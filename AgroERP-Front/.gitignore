@@ -1,0 +1,12 @@
+/target
+/bin
+/.settings
+/.classpath
+/.project
+/.mvn
+mvnw
+mvnw.cmd
+node_modules
+dist
+.env
+.DS_Store
